@@ -1,0 +1,5 @@
+(Pregunta 2)
+(
+(	No es posible ya que la unión entre Técnicos y Modelo es Expertos en y es una relación, habría que
+(	unirla a la relación Testear, y no se pueden unir dos relaciones directamente.
+(_

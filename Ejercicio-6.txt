@@ -1,0 +1,12 @@
+(Pregunta 2)
+(
+(	Para solucionarlo tenemos que trasladar el atributo Precio que está en Reparte a la entidad Medicamentos.
+(
+(_
+
+
+(Pregunta 3)
+(
+(	Hay que crear una nueva entidad Recetas que contenga las recetas que estaría atada Recetan para contenerlas ahí.
+(
+(_
